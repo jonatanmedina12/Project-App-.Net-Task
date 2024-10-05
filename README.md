@@ -59,11 +59,9 @@ Este proyecto es una API de gestión de tareas desarrollada con .NET Core 8. Per
 
 ### Endpoints principales
 
-- `GET /api/tareas`: Obtiene todas las tareas
 - `GET /api/tareas/{id}`: Obtiene una tarea específica
 - `POST /api/tareas`: Crea una nueva tarea
 - `PUT /api/tareas/{id}`: Actualiza una tarea existente
-- `DELETE /api/tareas/{id}`: Elimina una tarea
 
 ### Autenticación
 
