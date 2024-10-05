@@ -21,12 +21,12 @@ Este proyecto es una API de gestión de tareas desarrollada con .NET Core 8. Per
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/jonatanmedina12/Project-App-.Net-Task.git
    ```
 
 2. Navega al directorio del proyecto:
    ```
-   cd tu-repositorio
+   cd Project-App-.Net-Task.git
    ```
 
 3. Restaura las dependencias:
@@ -81,10 +81,6 @@ La API utiliza autenticación basada en JWT. Para obtener un token:
 - `Services/`: Lógica de negocio
 - `Data/`: Contexto de Entity Framework y configuraciones
 - `Migrations/`: Migraciones de Entity Framework Core
-
-## Contribución
-
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request.
 
 ## Licencia
 
