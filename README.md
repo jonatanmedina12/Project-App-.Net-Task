@@ -79,6 +79,12 @@ La API utiliza autenticación basada en JWT. Para obtener un token:
 - `Services/`: Lógica de negocio
 - `Data/`: Contexto de Entity Framework y configuraciones
 - `Migrations/`: Migraciones de Entity Framework Core
+- 
+## Link Video
+```
+Backend: https://youtu.be/im-OQV9eDRQ
+Frontend: https://youtu.be/M3NlfkS8IGA
+```
 
 ## Licencia
 
